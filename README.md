@@ -1,4 +1,4 @@
-<h3># Payment-Gateway</h3>
+<h3># Payment-Gateway</h3><h3 style="color:green">Designed by Mohammad Saquib Khan</h3>
 <h4># How to install the sample kit on a web server:<br>
  1. Copy PaytmKit folder in document root of your server (like /var/www/html)<br>
  2. Open config_paytm.php file from the PaytmKit/lib folder and update the below constant values<br>
