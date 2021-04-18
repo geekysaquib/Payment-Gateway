@@ -1,5 +1,5 @@
-# Payment-Gateway
-# How to install the sample kit on a web server:
+<h3># Payment-Gateway</h3>
+<h4># How to install the sample kit on a web server:
  1. Copy PaytmKit folder in document root of your server (like /var/www/html)
  2. Open config_paytm.php file from the PaytmKit/lib folder and update the below constant values
     - PAYTM_MERCHANT_KEY – Provided by Paytm
@@ -20,3 +20,4 @@
      (MID, ORDERID, TXNTYPE, REFUNDAMOUNT, TXNID, REFID)
   2. To generate checksum, call the following method. This function returns the checksum as a string.
      getRefundChecksumFromArray($arrayList, $key, $sort=1)
+</h4>
